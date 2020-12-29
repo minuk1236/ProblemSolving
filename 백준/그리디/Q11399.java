@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 /*
- * ¹éÁØ ATM ¹®Á¦ -11399¹ø
+ * ë°±ì¤€ ATM ë¬¸ì œ - 11399ë²ˆ
  * */
 
 public class Q11399 {
